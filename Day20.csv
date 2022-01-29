@@ -1,4 +1,4 @@
-X_Raster,Y_Raster,Rock (1-peridotite; 0-basalt)
+X_Raster,Y_Raster,rock_types
 1030.0,1.0,0.0
 1033.0,4.0,0.0
 1042.0,10.0,0.0
